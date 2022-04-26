@@ -1,5 +1,7 @@
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=QJune&show_icons=true&theme=radical)
 
+<a href="https://github.com/jackyfzh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=QJune&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Jacky's github stats" /></a> 
+<a href="https://github.com/jackyfzh"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QJune&layout=compact&theme=vue&hide_border=true" /></a>
 ### Hi there 👋
 
 <!--
