@@ -1,4 +1,4 @@
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QJune&theme=dark&layout=compact)
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=QJune&show_icons=true&theme=radical)
 
 ### Hi there 👋
 
