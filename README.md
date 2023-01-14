@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-    <a href="https://juneqiu.gitee.io/blog_build">个人博客</a>
+    <a href="https://juneqiu.gitee.io/blog_build">BLOG(博客)</a>
 </p>
