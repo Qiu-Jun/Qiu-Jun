@@ -9,5 +9,16 @@
 </p>
 
 <p align="center">
+    <span>
+        <img src="https://img.shields.io/badge/HTML-E34F26" />
+        <img src="https://img.shields.io/badge/CSS-1572B6 />
+        <img src="https://img.shields.io/badge/JavaScript-oringe" />
+        <img src="https://img.shields.io/badge/Vue-brightgreen" />
+        <img src="https://img.shields.io/badge/Node-black" />
+        <img src="https://img.shields.io/badge/MySql-black"" />
+    </span>
+</p>
+
+<p align="center">
     <a href="https://juneqiu.gitee.io/blog_build">BLOG(博客)</a>
 </p>
