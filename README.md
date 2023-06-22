@@ -18,6 +18,10 @@
     </span>
 </p>
 
+<P align="center">
+   <img src="https://activity-graph.herokuapp.com/graph?username=Qiu-Jun&theme=xcode" />
+</p>
+
 <p align="center">
     <a href="https://juneqiu.gitee.io/blog_build">BLOG(博客)</a>
 </p>
