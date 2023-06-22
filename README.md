@@ -11,6 +11,10 @@
    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qiu-Jun&hide_title=true&hide_border=true&layout=compact&langs_count=10&bg_color=30,e96443,904e95&text_color=fff" />
 </div>
 
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Qiu-Jun&theme=xcode" />
+</div>
+
  <div align="center">
 
  ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
