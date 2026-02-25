@@ -7,8 +7,8 @@
 
 <!-- GitHub 数据统计 -->
 <div align="center">
-   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Qiu-Jun&hide_title=true&hide_border=true&show_icons=true&bg_color=30,e96443,904e95&text_color=fff" />
-   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qiu-Jun&hide_title=true&hide_border=true&layout=compact&langs_count=10&bg_color=30,e96443,904e95&text_color=fff" />
+   <img height="137px" src="https://github-readme-stats-eosin-kappa-46.vercel.app/api?username=Qiu-Jun&hide_title=true&hide_border=true&show_icons=true&bg_color=30,e96443,904e95&text_color=fff" />
+   <img height="137px" src="https://github-readme-stats-eosin-kappa-46.vercel.app/api/top-langs/?username=Qiu-Jun&hide_title=true&hide_border=true&layout=compact&langs_count=10&bg_color=30,e96443,904e95&text_color=fff" />
 </div>
 
 <!--  <div align="center">
